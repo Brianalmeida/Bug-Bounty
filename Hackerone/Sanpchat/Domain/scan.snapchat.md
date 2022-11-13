@@ -5,4 +5,4 @@
 
 # URLs Found 
 - https://scan.snapchat.com/static
-- 
+
